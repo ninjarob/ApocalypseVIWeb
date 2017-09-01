@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+/.settings/
+/.project
+/.travis.yml
+/build.properties
+/build.xml
+/CONTRIBUTING.md
+/.buildpath
